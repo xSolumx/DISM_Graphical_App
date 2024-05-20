@@ -211,7 +211,7 @@ namespace DISM_Graphical_App
             ClearWinUpdates clr = new ClearWinUpdates();
             clr.ClearSoftwareDistribution();
         }
-        
+
     }
 
     public class ClearWinUpdates
